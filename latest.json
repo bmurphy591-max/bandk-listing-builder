@@ -1,6 +1,1 @@
-{
-  "version": "2.1.0",
-  "file": "update-2.1.0.zip",
-  "sha256": "d80d6e57001b61c4011815b51ad0064d91779333ec2fad7a6896aff73213cc44",
-  "notes": "Adds cost tracking, pricing from your own sales history, iPad access with a PIN, and one-click updates (see Settings & usage)."
-}
+{"version":"2.2.0","file":"update-2.2.0.zip","sha256":"768a7e14295f1c16fe959388edf7dcdb679051ac3116467a5ac834d5490772f2","notes":"New My listings page: improve photos on live listings, review first, then update eBay (originals can be restored)."}
