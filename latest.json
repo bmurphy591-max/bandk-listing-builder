@@ -1,1 +1,1 @@
-{"version":"2.5.6","file":"update-2.5.6.zip","sha256":"42ee21701049f0360d3eedbdb200eddc988f0e8a99c66417d85f8c0c56116f10","notes":"2.5.6 - Better band identification (reads printed material on the band), band width = lug width, and every listing ships as 4 oz, 6 x 4 x 1."}
+{"version":"2.6.1","file":"update-2.6.1.zip","sha256":"82f6b42411f2911fca13b81852d209468da020b8242c1b5e03b491433d4412fc","notes":"2.6.1 - Drop photos of one or many watches (up to 80). The AI always sorts them into watches; one click on Draft queued watches builds every listing."}
