@@ -1,1 +1,1 @@
-{"version":"2.6.1","file":"update-2.6.1.zip","sha256":"82f6b42411f2911fca13b81852d209468da020b8242c1b5e03b491433d4412fc","notes":"2.6.1 - Drop photos of one or many watches (up to 80). The AI always sorts them into watches; one click on Draft queued watches builds every listing."}
+{"version":"2.6.2","file":"update-2.6.2.zip","sha256":"ca6ceb82eda0612d309a92051fab30fff9a3efe81868b31aa3e5c8eb52d89bfc","notes":"2.6.2 - Solar watches get New Battery and the B&K guarantee line. Model number read from the caseback. Auto-crop now centers the watch."}
